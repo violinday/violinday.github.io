@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://violinday.github.io
+url: https://violinday.github.io
 date_format: "ordinal"
 title: Violinday
 subtitle: "打码改变人生"
