@@ -94,14 +94,14 @@ gitment:
     owner: violinday
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: e9ec5d7c6e4eaceda06b
+        client_secret: e1e6713a8faca95c432b62a638d72ecc845250d2
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: violinday
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: e9ec5d7c6e4eaceda06b
+    clientSecret: e1e6713a8faca95c432b62a638d72ecc845250d2
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
