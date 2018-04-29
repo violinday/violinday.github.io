@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 第一篇博客
+categories: [闲叙]
+description: 第一篇博客
+keywords: 
 ---
 
-Content here
+第一篇博客，以后的技术文章都在这儿记录，把之前没有做的事情做完，写出来高质量、有深度的记录文章。
