@@ -531,3 +531,4 @@ private void verifyCertificate(String certFile) {
 - [Android App签名(证书)校验过程源码分析](https://www.2cto.com/kf/201609/551023.html)
 - [Android签名机制之—签名过程详解](http://www.520monkey.com/archives/571)
 - [Android签名机制之—签名验证过程详解](http://www.520monkey.com/archives/573)
+- [Android证书验证存漏洞 开发者身份信息可被篡改](https://bbs.kafan.cn/thread-1792048-1-1.html)
