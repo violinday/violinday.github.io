@@ -6,7 +6,7 @@ description: Android Studio 快捷键及使用技巧汇总
 keywords: Android, Android Studio
 ---
 
-本文主要记录 Android Studio 的使用技巧等，使用过程中遇到的问题详见我的另一篇博客 [Android Studio 遇到问题集锦](http://mazhuang.org/2015/05/06/android-studio/)。
+本文主要记录 Android Studio 的使用技巧等。
 
 ## 快捷键
 
@@ -178,7 +178,7 @@ logcat 默认缓冲区条数不大，在日志比较多的时候经常出现想�
 默认情况下文件头注释里的 author 是当前登录操作系统的用户名，如 Administrator 或 Lenovo 等，如果我们想替换成自己的名字，方法是打开 Android Studio 可执行程序，比如 studio64.exe 同目录下的 studio64.exe.vmoptions，在最下面加入这样一行：
 
 ```
--Duser.name=mazhuang
+-Duser.name=violinday
 ```
 
 然后重新启动 Android Studio 即可。
