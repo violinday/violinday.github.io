@@ -11,7 +11,13 @@ keywords: 具有选择效果的flexablelayout
 
 最近项目用到标签选择效果，类似
 ![效果图](/images/6-17-flexboxlayout.png)
+
+
 不同的是，要带有选中效果，即，点击选中，并回调选中项。
+有人可能会问，为什么不说那个FlexBoxLayoutManager + RecyclerView实现点击选中等效果呢？
+
+是因为目前FlexBoxLayoutManager存在问题，在布局的时候回出现位置计算不准确的问题，详情见![]()
+
 回调代码如下：
 
 ``` Java
