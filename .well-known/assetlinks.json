@@ -4,24 +4,22 @@
     "namespace": "android_app",
     "package_name": "com.lianjia.alliance",
     "sha256_cert_fingerprints":
-    ["48:FB:6F:1A:94:DE:1E:2B:AB:A6:EC:59:36:7C:73:08:AB:D3:72:9A:C2:D4:A4:01:1B:29:CA:B4:1F:4F:F1:DE"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.homelink.im",
-    "sha256_cert_fingerprints":
     ["43:38:94:B6:09:0F:2D:9C:52:FB:B9:F4:B6:76:B3:C9:85:31:61:72:CE:92:9B:13:87:9F:15:29:56:38:C1:10"]
   }
 },
 {
-  "relation": ["delegate_permission/common.handle_all_urls"],
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://violinday.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.century21.sisa",
+    "package_name": "com.lianjia.alliance",
     "sha256_cert_fingerprints":
-    ["E2:7F:42:42:DC:C0:9B:F0:07:C2:DE:7B:2C:D6:97:AF:0A:F3:66:65:A0:E5:58:96:72:11:6E:6C:1D:79:5A:61"]
+    ["43:38:94:B6:09:0F:2D:9C:52:FB:B9:F4:B6:76:B3:C9:85:31:61:72:CE:92:9B:13:87:9F:15:29:56:38:C1:10"]
   }
 }]
