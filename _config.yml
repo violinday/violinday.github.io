@@ -120,5 +120,5 @@ simple_jekyll_search:
 google:
     analytics_id: UA-120514966-1
 
-includes:
-    ./.well-known/assetlinks.json
+include:
+    - .well-known/assetlinks.json
