@@ -121,4 +121,4 @@ google:
     analytics_id: UA-120514966-1
 
 includes:
-    .well-known
+    ./.well-known/assetlinks.json
