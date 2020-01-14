@@ -120,4 +120,6 @@ simple_jekyll_search:
 google:
     analytics_id: UA-120514966-1
 
+include:
+  - .well-known/
 include: [".well-known"]
