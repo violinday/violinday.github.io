@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.lianjia.alliance",
-    "sha256_cert_fingerprints":
-    ["CA:85:60:6D:C4:0E:1F:06:D1:64:01:94:D7:48:1B:58:0D:97:B2:F2:43:30:49:65:70:D9:EF:B7:65:FF:18:06"]
-  }
-}]
